@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541457279121",
+    "project_id": "splash-ca490",
+    "storage_bucket": "splash-ca490.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541457279121:android:b7b675148e79db31eaf730",
+        "android_client_info": {
+          "package_name": "com.example.splash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541457279121-deeq2jemigb2l88jrcmet1asegjuausr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ0pkA3oxTDvYLgM1Ek5PEBS6w7RlONes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541457279121-deeq2jemigb2l88jrcmet1asegjuausr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
